@@ -1,67 +1,119 @@
-# Prashant Maskar — Portfolio
+<div align="center">
 
-Interactive portfolio of **Prashant Maskar** (Senior Software Engineer, Pune, India). Built with React 19, TypeScript, Tailwind CSS, Three.js (Spatial Earth Node), Canvas 2D audio synthesis, and interactive case study explorers.
+# 👨‍💻 Prashant Maskar
+### **Senior Software Engineer · Micro-frontend Architect · Frontend Specialist**
+📍 Pune, India · 💼 9+ Years Professional Experience
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-prashantmaskar.tech-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prashantmaskar.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-maskar-460588110)
+[![GitHub](https://img.shields.io/badge/GitHub-prashantmaskar93-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prashantmaskar93)
+[![Email](https://img.shields.io/badge/Email-prashantmaskar93@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantmaskar93@gmail.com)
 
-## 🚀 Deploying to GitHub Pages
+<br/>
 
-This repository is pre-configured for automated deployment to **GitHub Pages** using **GitHub Actions**.
+> *"Engineering intuitive, user-centric interfaces focused on performance, digital accessibility, and cross-browser resilience within Agile cross-functional teams."*
 
-### Option A: Automated GitHub Actions Deployment (Recommended)
-
-1. **Push this repository to GitHub**:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit of Prashant Maskar portfolio"
-   git branch -M main
-   git remote add origin https://github.com/prashantmaskar93/<your-repo-name>.git
-   git push -u origin main
-   ```
-
-2. **Enable GitHub Pages in your Repository Settings**:
-   - Go to your repository on GitHub.
-   - Click on **Settings** → **Pages** (under the "Code and automation" section in the left sidebar).
-   - Under **Build and deployment** → **Source**, select **GitHub Actions**.
-
-3. **Automatic Deployment**:
-   - As soon as you push to `main`, the included workflow in `.github/workflows/deploy.yml` will automatically build and publish your site!
-   - Your site will be live at: `https://prashantmaskar93.github.io/<your-repo-name>/`
-
-### 🌐 Optional: Connecting your Custom Domain (`prashantmaskar.tech`)
-
-If you want to serve it directly from your custom domain:
-1. In your GitHub repository, go to **Settings** → **Pages**.
-2. Under **Custom domain**, enter: `prashantmaskar.tech`.
-3. Click **Save** and check **Enforce HTTPS**.
-4. In your DNS provider (e.g. Cloudflare, GoDaddy, Namecheap), add:
-   - **Apex domain (A records)** pointing to GitHub Pages IP addresses:
-     ```
-     185.199.108.153
-     185.199.109.153
-     185.199.110.153
-     185.199.111.153
-     ```
-   - Or a **CNAME record** for `www`:
-     ```
-     prashantmaskar93.github.io
-     ```
+</div>
 
 ---
 
-## 🛠️ Local Development
+## 🚀 About Me
 
-```bash
-# Install dependencies
-npm install
+Seasoned Frontend Developer with **9 years of professional engineering experience** designing, architecting, and deploying scalable, high-performance web applications across modern JavaScript ecosystems.
 
-# Start local dev server (port 3000)
-npm run dev
+- 🏢 **Current Role**: Senior Software Engineer at **Serrala Center Of Excellence** (Pune, India).
+- 🧩 **Specialization**: Enterprise Micro-frontend architecture (`Single-SPA`), large-scale banking financial systems, and modern component systems.
+- ⚡ **Core Ecosystems**: Deep command over **Angular (v17—v21)**, **React.js**, **TypeScript**, **Single-SPA**, **HTML5/CSS3**, and responsive web design.
+- 🌐 **Live Portfolio**: Explore interactive 3D demos, case studies, and career timeline at [prashantmaskar.tech](https://prashantmaskar.tech).
 
-# Build for production
-npm run build
+---
 
-# Preview production build locally
-npm run preview
+## 🛠️ Technical Skills
+
 ```
+┌─────────────────────────────────┬────────────────────────────────────────────────────────┐
+│ Domain                          │ Technologies & Tools                                   │
+├─────────────────────────────────┼────────────────────────────────────────────────────────┤
+│ Architecture & Micro-frontends  │ Single-SPA, Modular SPAs, State Architecture, RWD      │
+│ Frameworks & Libraries          │ Angular (v17-v21), React.js, Ionic Framework, Syncfusion│
+│ Languages                       │ TypeScript, JavaScript (ES6+), HTML5, CSS3, Core Java   │
+│ Backend & CMS                   │ Procedural PHP, REST APIs, JSON Schemas, WordPress     │
+│ UI & Design Systems             │ Bootstrap, Angular Material, Tailwind CSS, Responsive   │
+│ Performance & Cloud             │ Amazon CloudFront CDN, Web Vitals, Technical SEO, WCAG │
+│ Testing & Tooling               │ Git, Webpack, Vite, Test Automation (WTAF), Agile/Scrum│
+└─────────────────────────────────┴────────────────────────────────────────────────────────┘
+```
+
+### 💻 Technologies & Badges
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### **Senior Software Engineer** · Serrala Center Of Excellence
+*10/2021 — Present · Pune, India*
+- **Alevate Payments Business (APB)**: Architect and engineer high-performance, enterprise-level web applications leveraging **Single-SPA Micro-frontend architecture** to scale modular financial transaction engines.
+- **Dynamic Financial Form Systems**: Develop, manage, and scale optimized, modular UI components and core dynamic form structures handling multi-format global financial transactions (**SEPA-CT, DTAZV, and SEPA-DD**).
+- **Core Framework Maintenance**: Spearheaded standard core library and framework maintenance, systematically updating legacy builds to latest **Angular releases (v17 through v21)**.
+- **Cross-Device Parity**: Integrated fluid responsive layouts resulting in 100% cross-device environment resilience.
+
+---
+
+### **Senior Software Engineer** · Austrax Technologies
+*09/2020 — 10/2021 · Pune, India*
+- **Technical Architecture Modernization**: Modernized technical architectures for high-traffic customer-facing web applications.
+- **Performance Optimization**: Accelerated page load speeds by 75% and optimized rendering efficiency across cross-browser environments using modern modular JavaScript and Amazon CloudFront CDN.
+- **Agile Delivery**: Collaborated in fast-paced Agile sprints to deliver reliable, production-ready frontend code.
+
+---
+
+### **Software Engineer** · Integrative Systems India Pvt. Ltd.
+*08/2018 — 09/2020 · Pune, India*
+- **Web Test Automation Framework (WTAF)**: Designed and launched responsive single-page automation framework web applications using Angular, boosting internal QA operational efficiency by 65%.
+- **Interactive Dashboards**: Integrated visual test execution dash engines allowing QA teams to trigger parallel suite runs and parse real-time report summaries.
+- **Hybrid Mobile Applications**: Managed full-cycle hybrid mobile app pipelines for iOS and Android using unified Angular and Ionic frameworks.
+
+---
+
+### **Web Designer & Developer** · Softinfology Pvt. Ltd.
+*06/2015 — 01/2018 · Pune, India*
+- **Custom Web Platforms**: Built structured websites using native modern vanilla stacks (semantic HTML5, CSS3, core JavaScript) and procedural PHP backends.
+- **CMS Architectures**: Engineered custom WordPress installations tailored to specific business workflows without theme bloat.
+- **SEO & Web Standards**: Structured web markup following technical SEO best-practices to boost Google search index standings.
+
+---
+
+## 🎓 Education & Background
+
+- **Bachelor of Engineering (B.E. / B.Tech)** — Pune University *(2018)*
+- **Higher Secondary Certificate (HSC)** — State Board *(2011)*
+- **Secondary School Certificate (SSC)** — State Board *(2009)*
+
+---
+
+## 🌐 Languages & Interests
+
+- **Languages**: English, Marathi, Hindi
+- **Interests**: Continuous technological learning (exploring new frameworks, architectures, and performance paradigms), Culinary arts (cooking & baking).
+
+---
+
+## 📬 Get In Touch
+
+- 🌐 **Portfolio**: [prashantmaskar.tech](https://prashantmaskar.tech)
+- 💼 **LinkedIn**: [linkedin.com/in/prashant-maskar-460588110](https://www.linkedin.com/in/prashant-maskar-460588110)
+- 🐙 **GitHub**: [@prashantmaskar93](https://github.com/prashantmaskar93)
+- 📧 **Email**: [prashantmaskar93@gmail.com](mailto:prashantmaskar93@gmail.com)
+- 📱 **Phone**: (+91) 8600249455
